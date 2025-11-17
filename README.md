@@ -27,7 +27,7 @@ CNN Arabic
 
 BBC News Arabic
 
-Al Hadath
+Al ARABIA
 
 These outlets are known for professional editorial standards and fact-checked reporting.
 
