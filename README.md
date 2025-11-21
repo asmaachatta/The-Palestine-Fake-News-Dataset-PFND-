@@ -1,3 +1,4 @@
+CITED : Chatta, Asmaa; Bouakkaz, Mustapha; Latreche, Boubakeur (2025), “Palestine Fake news Dataset : PFND ”, Mendeley Data, V2, doi: 10.17632/gg85z68f83.2
 # The-Palestine-Fake-News-Dataset-PFND-
 The Palestine Fake News Dataset (PFND) is a manually collected Arabic-language dataset designed for fake news detection and credibility classification. The dataset contains over 3,000 news items, focusing primarily on current events related to Palestine. All news articles were gathered from publicly available Arabic news platforms. 
 
